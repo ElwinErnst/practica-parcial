@@ -1,0 +1,13 @@
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\bin\Debug\netcoreapp3.1\practicaParcial.exe
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\bin\Debug\netcoreapp3.1\practicaParcial.deps.json
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\bin\Debug\netcoreapp3.1\practicaParcial.runtimeconfig.json
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\bin\Debug\netcoreapp3.1\practicaParcial.runtimeconfig.dev.json
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\bin\Debug\netcoreapp3.1\practicaParcial.dll
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\bin\Debug\netcoreapp3.1\practicaParcial.pdb
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.AssemblyInfo.cs
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.dll
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.pdb
+C:\Users\MI\Desktop\practicaParcial\practicaParcial\obj\Debug\netcoreapp3.1\practicaParcial.genruntimeconfig.cache
